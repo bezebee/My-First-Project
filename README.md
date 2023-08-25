@@ -2,7 +2,7 @@
 
 
 # Introduction
-## Project Name
+# Project Name
 ### Project Description - Provide a brief, one- or two-sentence description of what your project does. This should be a high-level summary that quickly conveys the project's purpose.
 ### Project Purpose - Explain why your project exists and what problem it aims to solve. This helps users understand the context and motivation behind your project. 
 ### How it benefits the Users, Users Demographic - Whom does the site target and how will it benefit them
@@ -100,6 +100,8 @@ While the current version of the project is fully functional, we have some excit
 6. **Blog or News Section**:
    - Add a blog or news section to share photography tips, behind-the-scenes stories, and updates about your services.
 
+<hr>
+
 ## Manual Testing 
 
 #### Features Testing
@@ -111,13 +113,155 @@ While the current version of the project is fully functional, we have some excit
 |Contact Page|Click|Brings back to Home page|
 |Social Media Links|Click|Brings back to Home page|
 
-#### Lighthouse
-#### Browsers
-#### Screen Sizes testing
-#### Bugs Resolved
-#### Bugs Unresolved(if applicable)
-#### Validator Testing 
+<hr>
 
+#### Lighthouse
+
+**Introduction**
+This report presents the results of Lighthouse testing conducted to assess the performance, accessibility, best practices, SEO, and PWA compliance of [Website Name].
+
+**Test Execution**
+Lighthouse tests were executed using the Google Chrome browser's DevTools.
+
+**Test Metrics**
+- Performance Score: 81
+- Accessibility Score: 93
+- Best Practices Score: 92
+- SEO Score: 92
+
+**Detailed Results**
+- **Performance**: The website's performance score is 81, indicating good overall performance. However, there is room for improvement to further optimize loading times.
+- **Accessibility**: The website excels in accessibility, with a score of 93, indicating strong adherence to accessibility standards. Minimal accessibility issues were detected.
+- **Best Practices**: The website follows best practices with a score of 92. There are minor areas for improvement, particularly in script loading.
+- **SEO**: SEO performance is strong, with a score of 92. The website has well-optimized meta tags and structured data markup.
+
+**Areas for Improvement**
+- Performance can be enhanced by optimizing resource loading and reducing unnecessary requests.
+- Continue monitoring accessibility to maintain a high standard and address any emerging issues.
+- Best practices can be further improved by optimizing script loading and code splitting.
+- Maintain and regularly update meta tags and structured data markup to ensure strong SEO performance.
+
+**Visuals**
+
+<p align="center"><img src="https://res.cloudinary.com/dugnokxox/image/upload/v1692960667/Screenshot_2023-08-25_at_11.50.29_cfmkxt.png" alt="drawing" width="800"/></p>
+
+<hr>
+
+#### Browsers
+
+**Supported Browsers and Devices**
+Our web application is officially tested and supported on the following browsers and devices:
+- Google Chrome (latest version)
+- Mozilla Firefox (latest version)
+
+**Responsiveness Testing**
+We conduct manual responsiveness testing on Chrome and Firefox to ensure a seamless user experience.
+
+**Test Results**
+
+| Device/Screen Size  | Chrome Performance | Firefox Performance |
+|----------------------|--------------------|---------------------|
+| Desktop (1920x1080) | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
+| Laptop (1366x768)   | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
+| Tablet (iPad)       | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
+| Mobile (iPhone X)   | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
+
+**Known Issues**
+- [List any known responsiveness issues or limitations]
+
+**Recommendations**
+If you encounter any responsiveness issues, we recommend:
+- Updating your browser to the latest version.
+- Trying an alternative device or screen size for optimal viewing.
+
+<hr>
+
+#### Screen Sizes testing
+<hr>
+
+**Introduction**
+This section provides an overview of how our web application [Website Name] performs across different screen sizes.
+
+**Supported Screen Sizes**
+Our web application is designed to be responsive and adapt to various screen sizes. Below are the screen sizes we have tested:
+
+| Screen Size     | Description             |
+|-----------------|-------------------------|
+| Desktop         | 1920x1080 pixels        |
+| Laptop          | 1366x768 pixels         |
+| Tablet (iPad)   | 768x1024 pixels (portrait) and 1024x768 pixels (landscape) |
+| Mobile (iPhone) | 375x812 pixels (iPhone X, portrait) and 812x375 pixels (iPhone X, landscape) |
+
+**Testing Results**
+
+| Screen Size     | Test Results           |
+|-----------------|------------------------|
+| Desktop         | Describe performance and issues on different browsers |
+| Laptop          | Describe performance and issues on different browsers |
+| Tablet (iPad)   | Describe performance and issues on different browsers |
+| Mobile (iPhone) | Describe performance and issues on different browsers |
+
+<hr> 
+
+#### Bugs Resolved
+
+
+**Introduction**
+This section provides a summary of bugs that have been identified, reported, and subsequently resolved in [Website Name].
+
+**Bug Tracking**
+Below is a summary of resolved bugs:
+
+| Bug ID | Bug Description | Status |
+|--------|-----------------|--------|
+| #001   | Describe the bug and its impact on the user experience. | Resolved |
+| #002   | Describe the bug and its impact on the user experience. | Resolved |
+| #003   | Describe the bug and its impact on the user experience. | Resolved |
+| #004   | Describe the bug and its impact on the user experience. | Resolved |
+| #005   | Describe the bug and its impact on the user experience. | Resolved |
+
+**Bug Details**
+Here are the details of the resolved bugs:
+
+**Bug #001**
+- **Description**: Describe the bug and the steps to reproduce it.
+- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
+- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
+
+**Bug #002**
+- **Description**: Describe the bug and the steps to reproduce it.
+- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
+- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
+
+**Bug #003**
+- **Description**: Describe the bug and the steps to reproduce it.
+- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
+- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
+
+**Bug #004**
+- **Description**: Describe the bug and the steps to reproduce it.
+- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
+- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
+
+**Bug #005**
+- **Description**: Describe the bug and the steps to reproduce it.
+- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
+- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
+
+<hr>
+
+#### Bugs Unresolved(if applicable)
+
+| Bug ID | Bug Description | Status |
+|--------|-----------------|--------|
+| #001   | Describe the bug and its impact on the user experience. | Unesolved |
+| #002   | Describe the bug and its impact on the user experience. | Unesolved |
+| #003   | Describe the bug and its impact on the user experience. | Unesolved |
+| #004   | Describe the bug and its impact on the user experience. | Unesolved |
+| #005   | Describe the bug and its impact on the user experience. | Unesolved |
+<hr>
+
+#### Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
