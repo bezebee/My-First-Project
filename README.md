@@ -177,7 +177,6 @@ If you encounter any responsiveness issues, we recommend:
 <hr>
 
 #### Screen Sizes testing
-<hr>
 
 **Introduction**
 This section provides an overview of how our web application [Website Name] performs across different screen sizes.
