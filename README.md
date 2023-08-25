@@ -24,7 +24,7 @@ You will need to explain what value each of the features provides for the user, 
 
   <details><summary>Navbar Screenshot</summary>
 
-  <p align="center"><img src="assets/images/img1.png" alt="drawing" width="600"/></p>
+  <p align="center"><img src="https://placehold.co/600x400" alt="drawing" width="600"/></p>
 
   </details>
 
@@ -37,8 +37,6 @@ You will need to explain what value each of the features provides for the user, 
   <details><summary>Services Screenshot</summary>
 
   <p align="center"><img src="https://placehold.co/600x400" alt="drawing" width="600"/></p>
-  
-  ![Landing Page](assets/images/img1.png)
 
   </details>
 
