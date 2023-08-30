@@ -110,7 +110,7 @@ While the current version of the project is fully functional, we have some excit
 |---|---|---|
 |Logo|Click|Brings back to Home page|
 |Navbar Links|Click on Gallery|Opens Gallery|
-||Click on Gallery|Opens Gallery|
+||Click on About|Opens About page|
 ||Click on Contact|Opens Contact page|
 |Contact Page|Fill out the form and submit|A form dump is rendered|
 ||Attempt to submit empty|Error pops up in field that's left empty|
