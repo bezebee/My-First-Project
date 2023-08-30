@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.freepik.com/free-vector/flat-design-responsive-website-design_23-2149489190.jpg?w=2000&t=st=1692956824~exp=1692957424~hmac=659a66962da8273280e77c7a5ca465dd81cd281c95595ff57f81b7ba64a89e7b" alt="drawing" width="800"/></p>
+<p align="center"><img src="/assets/images/responsive.png" alt="drawing" width="800"/></p>
 
 
 # Introduction
