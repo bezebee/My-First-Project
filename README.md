@@ -109,9 +109,12 @@ While the current version of the project is fully functional, we have some excit
 |  Feature |  Action | Effect |
 |---|---|---|
 |Logo|Click|Brings back to Home page|
-|Navbar Links|Click|Brings back to Home page|
-|Contact Page|Click|Brings back to Home page|
-|Social Media Links|Click|Brings back to Home page|
+|Navbar Links|Click on Gallery|Opens Gallery|
+||Click on Gallery|Opens Gallery|
+||Click on Contact|Opens Contact page|
+|Contact Page|Fill out the form and submit|A form dump is rendered|
+||Attempt to submit empty|Error pops up in field that's left empty|
+|Social Media Links|Test Instagram link|Instagram profile opens in a separate tab|
 
 <hr>
 
